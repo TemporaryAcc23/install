@@ -19,10 +19,7 @@ sudo apt install -y hping3 netdiscover
 sudo apt install -y aircrack-ng mdk3
 
 # Web application testing tools
-sudo apt install -y burp-suite sqlmap nikto wfuzz
-
-# Exploitation tools
-sudo apt install -y metasploit-framework exploitdb
+sudo apt install -y  sqlmap wfuzz
 
 # Forensic tools
 sudo apt install -y volatility
