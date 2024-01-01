@@ -32,6 +32,6 @@ sudo apt install -y volatility
 sudo systemctl restart ssh
 
 # Display a message indicating successful installation
-echo "Network penetration testing tools installed successfully."
+echo "Google Cloud Shell Tools Installation Finished."
 
 # Additional configurations or steps can be added here
